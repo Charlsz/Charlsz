@@ -2,7 +2,7 @@
   <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
 </p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">👋 Sup!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlsz&label=Profile%20views&color=0e75b6&style=flat" alt="charlsz" /> </p>
 
