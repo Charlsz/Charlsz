@@ -18,7 +18,7 @@
 
 - 😺 How to reach me **cgalvis21_@hotmail.com**
 
-- 🙀 Know about my experiences [charlsz.netlify.app](charlsz.netlify.app)
+- 🙀 Know about my experiences [[charlsz.netlify.app](charlsz.netlify.app)](https://charlsz.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
