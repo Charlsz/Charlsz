@@ -1,6 +1,79 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
+  <a href="https://charlsz.netlify.app/">
+    <img src="https://media1.tenor.com/m/clPun4-Kdu0AAAAd/anime-frieren.gif">
+  </a>
 </p>
 
-<h3 align="center"> Sup!</h3>
+<h1 align="center"> Sup! i'm <a href="https://charlsz.netlify.app/">Charlie</a>!</h1>
+<h3 align="center">welcome to my GitHub profile</h3>
 
+</br>
+</br>
+</br>
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/gH3l9iIQaAkAAAAd/anime-frieren.gif">
+
+
+
+
+### - Tech Stack :
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+### - Learning :
+![Cloud Engineering](https://img.shields.io/badge/Cloud%20Engineering-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+<h6 align="center">Still improving a lot of things!</h6>
+<p align="center">
+  <a href="https://github.com/Charlsz">
+    <img src="https://github-readme-stats.vercel.app/api?username=Charlsz&hide_border=true&show_icons=true&theme=tokyonight" alt="Carlos' GitHub stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Charlsz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlsz&layout=compact&theme=tokyonight" alt="Top Langs" />
+  </a>
+</p>
+
+
+<!--
+i'll use this later! -.-
+<p align="center">
+  <strong><a href="https://yuna0x0.com">Website</a></strong> |
+  <strong><a href="https://x.com/yunaNULL">Twitter</a></strong> |
+  <strong><a href="https://bsky.app/profile/yuna0x0.com">Bluesky</a></strong> |
+  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
+  <strong><a href="https://yuna0x0.com/yuna0x0.asc">PGP</a></strong>
+</p>
+
+<h6 align="center">Still learning a lot of things!</h6>
+<p align="center">
+  <a href="https://github.com/Charlsz"><img src="https://github-readme-stats.vercel.app/api?username=Charlsz&hide_border=true&show_icons=true" alt="Charlie's github stats"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Charlsz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlsz&layout=compact" alt="Top Langs" />
+  </a>
+</p>
+
+https://media.tenor.com/oRj8vT1BBwYAAAAj/%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%B9.gif
+-->
