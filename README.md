@@ -11,6 +11,26 @@
 </br>
 </br>
 
+
+
+<h6 align="center">Still improving a lot of things!</h6>
+<p align="center">
+  <a href="https://github.com/Charlsz">
+    <img src="https://github-readme-stats.vercel.app/api?username=Charlsz&hide_border=true&show_icons=true&theme=tokyonight" alt="Carlos' GitHub stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Charlsz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlsz&layout=compact&theme=tokyonight" alt="Top Langs" />
+  </a>
+</p>
+
+
+<!--
+i'll use this later! -.-
+
+
 <img hight="400" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/gH3l9iIQaAkAAAAd/anime-frieren.gif">
 
 
@@ -46,22 +66,6 @@
 </br>
 
 
-<h6 align="center">Still improving a lot of things!</h6>
-<p align="center">
-  <a href="https://github.com/Charlsz">
-    <img src="https://github-readme-stats.vercel.app/api?username=Charlsz&hide_border=true&show_icons=true&theme=tokyonight" alt="Carlos' GitHub stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Charlsz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlsz&layout=compact&theme=tokyonight" alt="Top Langs" />
-  </a>
-</p>
-
-
-<!--
-i'll use this later! -.-
 <p align="center">
   <strong><a href="https://yuna0x0.com">Website</a></strong> |
   <strong><a href="https://x.com/yunaNULL">Twitter</a></strong> |
