@@ -20,11 +20,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Charlsz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlsz&layout=compact&theme=tokyonight" alt="Top Langs" />
-  </a>
-</p>
 
 
 <!--
@@ -34,6 +29,11 @@ i'll use this later! -.-
 <img hight="400" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/gH3l9iIQaAkAAAAd/anime-frieren.gif">
 
 
+<p align="center">
+  <a href="https://github.com/Charlsz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlsz&layout=compact&theme=tokyonight" alt="Top Langs" />
+  </a>
+</p>
 
 
 ### - Tech Stack :
