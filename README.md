@@ -16,7 +16,7 @@
 <h6 align="center">Still improving a lot of things!</h6>
 <p align="center">
   <a href="https://github.com/Charlsz">
-    <img src="https://github-readme-stats.vercel.app/api?username=Charlsz&hide_border=true&show_icons=true&theme=tokyonight" alt="Carlos' GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Charlsz&hide_border=true&show_icons=true&theme=tokyonight" alt="Charlie's GitHub stats" />
   </a>
 </p>
 
@@ -67,8 +67,8 @@ i'll use this later! -.-
 
 
 <p align="center">
-  <strong><a href="https://yuna0x0.com">Website</a></strong> |
-  <strong><a href="https://x.com/yunaNULL">Twitter</a></strong> |
+  <strong><a href="charlsz.github.io/my-website/">Website</a></strong> |
+  <strong><a href="https://x.com/charlswfeelings">Twitter</a></strong> |
   <strong><a href="https://bsky.app/profile/yuna0x0.com">Bluesky</a></strong> |
   <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
   <strong><a href="https://yuna0x0.com/yuna0x0.asc">PGP</a></strong>
