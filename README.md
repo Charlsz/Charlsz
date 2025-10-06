@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center"> Sup! i'm <a href="https://charlsz.netlify.app/">Charlie</a>!</h1>
+<h1 align="center"> Sup! i'm <a href="https://charlsz.github.io/my-website/">Charlie</a>!</h1>
 <h3 align="center">welcome to my GitHub profile</h3>
 
 </br>
