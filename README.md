@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://charlsz.github.io/my-website/">
-    <img src="https://media1.tenor.com/m/clPun4-Kdu0AAAAd/anime-frieren.gif">
+    <img src="https://media1.tenor.com/m/clPun4-Kdu0AAAAd/anime-frieren.gif" width="200" >
   </a>
 </p>
 
