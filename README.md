@@ -1,8 +1,5 @@
-<p align="center">
-  <a href="https://charlsz.github.io/my-website/">
-    <img src="https://media1.tenor.com/m/clPun4-Kdu0AAAAd/anime-frieren.gif" width="200" >
-  </a>
-</p>
+# Sup! I'm Charlie
+##### Full-stack / design engineer.
+[![Website](https://img.shields.io/badge/charlsz.tech-portfolio-black?style=for-the-badge)](https://www.charlsz.tech)
 
-<h1 align="center"> Sup! i'm <a href="https://charlsz.github.io/my-website/">Charlie</a>!</h1>
-<h3 align="center">welcome to my GitHub profile</h3>
+##### I like art, design and i truly believe that projects should be made for the progress of humanity.
