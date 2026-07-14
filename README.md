@@ -1,5 +1,4 @@
 # Sup! I'm Charlie
-##### Full-stack / design engineer.
 
 ##### I like art, design and i truly believe that projects should be made for the progress of humanity.
 
