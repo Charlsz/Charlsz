@@ -1,7 +1,24 @@
-# Sup! I'm Charlie
+<div align="center">
 
-***B.Sc. in System Engineering.***
+<h1>Sup! I'm Charlie</h1>
 
-##### I like art, design and i truly believe that projects should be made for the progress of humanity.
+</div>
 
-[![Website](https://img.shields.io/badge/charlsz.tech-portfolio-black?style=for-the-badge)](https://www.charlsz.tech)
+<div align="center">
+
+<h3><em>B.Sc. in System Engineering.</em></h3>
+
+<p>
+I like art, design and i truly believe that projects<br>
+should be made for the progress of humanity.
+</p>
+
+<br>
+
+<a href="https://www.charlsz.tech">
+<img src="https://img.shields.io/badge/charlsz.tech-portfolio-black?style=for-the-badge" />
+</a>
+
+</div>
+
+<br clear="all" />
