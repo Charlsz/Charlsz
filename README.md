@@ -2,14 +2,10 @@
 
 <h1>Sup! I'm Charlie</h1>
 
-</div>
-
-<div align="center">
-
 <h3><em>B.Sc. in System Engineering.</em></h3>
 
 <p>
-I like art, design and i truly believe that projects<br>
+I like art, design and i truly believe that projects
 should be made for the progress of humanity.
 </p>
 
@@ -19,6 +15,8 @@ should be made for the progress of humanity.
 <img src="https://img.shields.io/badge/charlsz.tech-portfolio-black?style=for-the-badge" />
 </a>
 
-</div>
+<br><br>
 
-<br clear="all" />
+<img src="https://i.pinimg.com/736x/7e/b5/f3/7eb5f31e69200f9302cf82cacce19932.jpg" width="20%" />
+
+</div>
