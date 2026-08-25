@@ -15,8 +15,4 @@ should be made for the progress of humanity.
 <img src="https://img.shields.io/badge/charlsz.tech-portfolio-black?style=for-the-badge" />
 </a>
 
-<br><br>
-
-<img src="https://i.pinimg.com/736x/7e/b5/f3/7eb5f31e69200f9302cf82cacce19932.jpg" width="20%" />
-
 </div>
